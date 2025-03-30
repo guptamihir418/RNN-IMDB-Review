@@ -1,0 +1,16 @@
+tensorflow
+pandas
+numpy
+tensorboard
+matplotlib
+streamlit
+scikeras
+keras
+ipykernel
+streamlit
+matplotlib
+flask
+seaborn
+scikit-learn==1.5.2
+nltk
+gensim
